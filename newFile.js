@@ -19,4 +19,5 @@ Increasebtn.onclick= function(){
 Resetbtn.onclick = function(){
 count=0 ;
 Firstbtn.textContent = count;
+
  }
